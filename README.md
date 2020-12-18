@@ -1,4 +1,4 @@
 # typography
 
 
-(cptypography.netlify.app)
+[Check it out here!](cptypography.netlify.app)
